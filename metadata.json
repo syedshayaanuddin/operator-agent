@@ -1,0 +1,6 @@
+{
+  "name": "OPERATOR",
+  "description": "An autonomous AI execution agent mission control center.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
